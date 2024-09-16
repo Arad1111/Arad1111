@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @Arad1111 full name: Arad Golsharifi
-- 👀 I’m interested in Data Science and quantitative analysis.
-- 🌱 I’m currently Studying Mathematics at University of waterloo.
-- 📫 You can connect with me on LinkedIn for any inquiries or collaboration opportunities.
-- 😄 Pronouns: he/Him
+ Hi👋, I'm Arad Golsharifi
 
+I'm a at the University of Waterloo, passionate about **quantitative analysis** and **data science**. I enjoy solving algorithmic problems and building projects with Python and its data science libraries.
 
-<!---
-Arad1111/Arad1111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 Current Projects:
+- LeetCode Algorithm Solutions
+- Data analysis and visualization projects
+
+📫 How to reach me:
+- [LinkedIn] www.linkedin.com/in/arad-golsharifi-373965303
