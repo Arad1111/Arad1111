@@ -1,6 +1,6 @@
  Hi👋, I'm Arad Golsharifi
 
-I'm a at the University of Waterloo, passionate about **quantitative analysis** and **data science**. I enjoy solving algorithmic problems and building projects with Python and its data science libraries.
+I'm studying at the University of Waterloo, passionate about **quantitative analysis** and **data science**. I enjoy solving algorithmic problems and building projects with Python and its data science libraries.
 
 🔭 Current Projects:
 - LeetCode Algorithm Solutions
